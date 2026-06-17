@@ -1,0 +1,11 @@
+{
+  "name": "iBridgeCoin",
+  "symbol": "IBRIDGE",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Bridging the future of decentralized finance across chains. Fast, borderless, and built for the next generation of crypto.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0xa8E67BC109a985FDF9d3320D4793236a3BE09140",
+  "status": "active",
+  "tags": ["defi"]
+}
